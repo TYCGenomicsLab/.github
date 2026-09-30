@@ -11,7 +11,7 @@ We develop computational methods that turn high-dimensional biological data into
 - **Host–microbe interactions and microbiome population studies**
 - **Human genetics and genetic ancestry**
 
-For morę info visit our lab website: [katarzynatyc.github.io](https://katarzynatyc.github.io/)
+For more information visit our lab website: [katarzynatyc.github.io](https://katarzynatyc.github.io/)
 
 ## Publications
 
