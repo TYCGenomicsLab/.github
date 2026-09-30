@@ -11,8 +11,7 @@ We develop computational methods that turn high-dimensional biological data into
 - **Host–microbe interactions and microbiome population studies**
 - **Human genetics and genetic ancestry**
 
-We are part of the Department of Biostatistics, VCU School of Public Health, and the Bioinformatics Shared Resource
-of the VCU Massey Comprehensive Cancer Center, Richmond, Virginia. Lab website: [katarzynatyc.github.io](https://katarzynatyc.github.io/)
+For morę info visit our lab website: [katarzynatyc.github.io](https://katarzynatyc.github.io/)
 
 ## Publications
 
